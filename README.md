@@ -5,7 +5,7 @@
 Install with the command:
 
 ```
-npm install --save bl-js-footer
+npm install --save bliss-js-footer
 ```
 
 Add to a JavaScript Project with the following code:
