@@ -1,5 +1,5 @@
 {
-  "name": "bl-js-footer",
+  "name": "bliss-js-footer",
   "version": "0.1.0",
   "description": "This module allows for a dyncamic footer to be generated for JS applications with an updated year and name.",
   "main": "index.js",
